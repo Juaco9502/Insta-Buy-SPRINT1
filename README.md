@@ -2,7 +2,7 @@
 
 ## LOGO
 
-![Logo](img/logo.PNG)
+![Logo](img/logo1.PNG)
 
 ## INTRODUCTION
 
