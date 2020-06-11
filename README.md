@@ -281,7 +281,7 @@ public class HttpServer {
 
 
 # Diagram
-![Diagram](img/diagrama.PNG)
+![Diagram](img/diagram.PNG)
 
 
 ## PRE-REQUISITES
